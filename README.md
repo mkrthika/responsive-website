@@ -1,2 +1,2 @@
 # responsive-website
-A sample Responsive website
+Created a website which is highly responsive to any devices under usage
